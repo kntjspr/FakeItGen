@@ -80,6 +80,7 @@ Print the generated DOB
 - Names are determined based on the frequency of different names in the year of birth
 - We put lots of effort in our work to ensure identities are realistic
 - We continuously improve our services working to provide the best service
+
 [More Information](https://fake-it.ws/about/)
 
 ### About this library
