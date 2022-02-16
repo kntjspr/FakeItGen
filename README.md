@@ -59,7 +59,7 @@ These data aren't supported yet. They will be added in the future versions of th
 3. Add object to your specified class.
 
 Example:
-``` 
+```c#
 FakeGenBeta fakeBeta = new FakeGenBeta();
 fakeBeta.Generate("USA");
 ```
