@@ -4,7 +4,7 @@ Generates identity by scraping data from fake-it.ws.
 ## Features
 - No API key needed, no more $5/day.
 - Up to 70 countries are supported.
-- Generates [realistic identities.](https://github.com/kntjspr/FakeItGen/blob/main/README.md#how-realistic-are-the-identities)
+- Generates [realistic identities.](#how-realistic-are-the-identities)
 - Easy library integration.
 
 ## Dependencies
