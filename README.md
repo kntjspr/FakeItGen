@@ -8,7 +8,7 @@ Generates identity by scraping data from fake-it.ws.
 - Easy library integration.
 
 ## Dependencies
-- Uses [HtmlAgilityPack](https://html-agility-pack.net/) library for scraping.
+- [HtmlAgilityPack](https://html-agility-pack.net/)
 
 ## Supported Data:
 These are the data that you can generate by this library.
