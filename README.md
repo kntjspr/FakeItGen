@@ -60,8 +60,8 @@ These data aren't supported yet. They will be added in the future versions of th
 
 Example:
 ```c#
-FakeGenBeta fakeBeta = new FakeGenBeta();
-fakeBeta.Generate("USA");
+FakeGenBeta identity = new FakeGenBeta();
+identity.Generate("USA");
 ```
 ## Generating Data:
 Print the generated name
