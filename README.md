@@ -66,11 +66,11 @@ identity.Generate("USA");
 ## Generating Data:
 Print the generated name
 
-``Console.WriteLine(fakeBeta.name);``
+``Console.WriteLine(identity.name);``
 
 Print the generated DOB
 
-``Console.WriteLine(fakeBeta.dateOfBirth);``
+``Console.WriteLine(identity.dateOfBirth);``
 
 ## Other Information:
 ### How Realistic are the Identities?
