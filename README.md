@@ -1,6 +1,11 @@
 # FakeItGen Library
 Generates identity by scraping data from fake-it.ws.
 
+
+
+# Current update:
+- The project became unusable due to the site being down, and as a result, this GitHub repository has been archived.
+
 ## Features
 - No API key needed, no more $5/day.
 - Up to 70 countries are supported.
